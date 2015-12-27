@@ -55,6 +55,13 @@ https://www.youtube.com/watch?v=sLitCqj6S1w
 CLI CAN Debugging:
 https://www.ridgerun.com/developer/wiki/index.php/How_to_configure_and_use_CAN_bus#Enable_socketcan_and_ip_tools
 
+Higher Level Tools:
+http://kayak.2codeornot2code.org/
+http://sourceforge.net/projects/cantools/
+https://github.com/julietkilo/CANBabel
+
+
+
 http://lnxpps.de/rpie/
 http://elinux.org/RPi_CANBus
 http://www.cowfishstudios.com/blog/canned-pi-part1
