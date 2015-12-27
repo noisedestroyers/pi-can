@@ -22,8 +22,6 @@ iface wlan1 inet manual
     wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
 
 iface can0 inet manual
-    #ip link set can0 up type can bitrate 500000
     pre-up /sbin/ip link set $IFACE type can bitrate 500000
-    # triple-sampling on
     up /sbin/ifconfig $IFACE up
     down /sbin/ifconfig $IFACE down
