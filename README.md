@@ -60,7 +60,9 @@ http://kayak.2codeornot2code.org/
 http://sourceforge.net/projects/cantools/
 https://github.com/julietkilo/CANBabel
 
-
+CANARD & CANTACT HW & SW
+https://github.com/ericevenchick/canard
+https://github.com/linklayer
 
 http://lnxpps.de/rpie/
 http://elinux.org/RPi_CANBus
